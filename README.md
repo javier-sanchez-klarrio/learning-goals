@@ -24,6 +24,7 @@ progress on them
 **Resources**
 
 - https://training.linuxfoundation.org/certification/certified-kubernetes-administrator-cka/
+- https://learn.acloud.guru/course/certified-kubernetes-administrator/overview
 - Build a list of level-oriented challenges would be a nice way of learning kubernetes and assessing kubernetes skills
 
 
