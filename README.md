@@ -3,9 +3,9 @@
 This is similar to OKRs, in that we set some Objectives (Learning Goals) and some key results to track the
 progress on them
 
-## A. December 2024 - May 2025
+# A. December 2024 - June 2025
 
-### Goals for this period
+## Goals for this period
 
 - A1. Level up on Kubernetes
 - A2. Kafka deep knowledge
@@ -13,9 +13,9 @@ progress on them
 
 > Goals NOT for this period: Golang, Terraform, Rust, ...
 
-### Goal tracking
+## Goal tracking
 
-#### A1. Level up on Kubernetes
+### A1. Level up on Kubernetes
 
 | Key Result | Description | Progress |
 | ---------- | ----------- | -------- |
@@ -27,7 +27,7 @@ progress on them
 - Build a list of level-oriented challenges would be a nice way of learning kubernetes and assessing kubernetes skills
 
 
-#### A2. Kafka deep knowledge
+### A2. Kafka deep knowledge
 
 | Key Result | Description | Progress |
 | ---------- | ----------- | -------- |
@@ -40,7 +40,7 @@ progress on them
 - Kafka: The Definitive Guide (book)
 - Udemy: Apache Kafka Series - Learn Apache Kafka for Beginners v3
 
-#### A3. Scala profficiency
+### A3. Scala profficiency
 
 | Key Result | Description | Progress |
 | ---------- | ----------- | -------- |
