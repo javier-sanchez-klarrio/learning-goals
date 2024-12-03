@@ -20,6 +20,7 @@ progress on them
 | Key Result | Description | Progress |
 | ---------- | ----------- | -------- |
 | ??? | ???? | [◾️◾️◾️◾️◾️◾️◾️◾️◾️◾️] |
+| Teach about k8s | A masterclass or a few sessions / workshops for beginners | [◾️◾️◾️◾️◾️◾️◾️◾️◾️◾️] |
 
 **Resources**
 
