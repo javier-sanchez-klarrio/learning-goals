@@ -25,7 +25,8 @@ progress on them
 
 - https://training.linuxfoundation.org/certification/certified-kubernetes-administrator-cka/
 - https://learn.acloud.guru/course/certified-kubernetes-administrator/overview
-- Build a list of level-oriented challenges would be a nice way of learning kubernetes and assessing kubernetes skills
+- [iximiuz Kubernetes Challenges](https://labs.iximiuz.com/challenges?category=kubernetes)
+- [KodeKloud Kubernetes Challenges](https://kodekloud.com/courses/kubernetes-challenges)
 
 
 ### A2. Kafka deep knowledge
