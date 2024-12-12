@@ -3,7 +3,7 @@
 This is similar to OKRs, in that we set some Objectives (Learning Goals) and some key results to track the
 progress on them
 
-# A. December 2024 - June 2025
+# December 2024 - June 2025
 
 ## Goals for this period
 
