@@ -19,8 +19,8 @@ progress on them
 
 | Key Result | Description | Progress |
 | ---------- | ----------- | -------- |
-| ??? | ???? | [◾️◾️◾️◾️◾️◾️◾️◾️◾️◾️] |
-| Teach about k8s | A masterclass or a few sessions / workshops for beginners | [◾️◾️◾️◾️◾️◾️◾️◾️◾️◾️] |
+| ??? | ???? |  |
+| Teach about k8s | A masterclass or a few sessions / workshops for beginners | |
 
 **Resources**
 
@@ -34,7 +34,7 @@ progress on them
 
 | Key Result | Description | Progress |
 | ---------- | ----------- | -------- |
-| Get CCDAK-certificate | Take and pass the CCDAK certification | [◾️◾️◾️◾️◾️◾️◾️◾️◾️◾️] |
+| Get CCDAK-certificate | Take and pass the CCDAK certification |  |
 
 **Resources**
 - https://www.linkedin.com/pulse/how-pass-ccdak-tips-tricks-zakaria-drissi-1xz0e#:~:text=Getting%20the%20Confluent%20Certified%20Developer,exam%20structure%20and%20required%20modules.
@@ -47,7 +47,7 @@ progress on them
 
 | Key Result | Description | Progress |
 | ---------- | ----------- | -------- |
-| Finish some courses on scala | ??? | [◾️◾️◾️◾️◾️◾️◾️◾️◾️◾️] |
+| Finish some courses on scala | ??? |  |
 
 **Resources**
 - https://www.coursera.org/specializations/scala
